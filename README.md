@@ -1,0 +1,2 @@
+# infinity-coins
+Infinite Coins
